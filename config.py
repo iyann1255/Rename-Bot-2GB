@@ -90,7 +90,7 @@ class Txt(object):
 
 If You Like My Bots & Projects, You Can 🎁 Donate Me Any Amount From 10 Rs Upto Your Choice.
 
-<b>🛍 UPI ID:</b> `kumarjishusinha@ibl`
+<b>🛍 UPI ID:</b> `tdfryjtfdjmedrjmke7y`
 """
 
 
@@ -98,7 +98,7 @@ If You Like My Bots & Projects, You Can 🎁 Donate Me Any Amount From 10 Rs Upt
 
 For Example :-
 
-<code>By :- @MadflixBotz</code>
+<code>By :- @AWDfilm</code>
 
 💬 For Any Help Contact @AWDfilm
 """
